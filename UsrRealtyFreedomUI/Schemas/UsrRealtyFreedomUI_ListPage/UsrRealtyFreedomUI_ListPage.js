@@ -42,6 +42,14 @@ define("UsrRealtyFreedomUI_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, functi
 							"dataValueType": 10
 						},
 						{
+							"id": "6ab4c493-1343-9417-741d-a592bb413ea0",
+							"code": "PDS_UsrManager",
+							"path": "UsrManager",
+							"caption": "#ResourceString(PDS_UsrManager)#",
+							"dataValueType": 10,
+							"referenceSchemaName": "Contact"
+						},
+						{
 							"id": "e177db03-f4b9-ec32-2f61-738ee027f7ea",
 							"code": "PDS_UsrType",
 							"path": "UsrType",
@@ -473,6 +481,11 @@ define("UsrRealtyFreedomUI_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, functi
 							"path": "PDS.CreatedBy"
 						}
 					},
+					"PDS_UsrManager": {
+						"modelConfig": {
+							"path": "PDS.UsrManager"
+						}
+					},
 					"PDS_UsrType": {
 						"modelConfig": {
 							"path": "PDS.UsrType"
@@ -526,6 +539,9 @@ define("UsrRealtyFreedomUI_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, functi
 									},
 									"CreatedBy": {
 										"path": "CreatedBy"
+									},
+									"UsrManager": {
+										"path": "UsrManager"
 									},
 									"UsrType": {
 										"path": "UsrType"

@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "aaa5b5b3-5ba9-492a-96cc-39d916e9c8db",
     "Name": "UsrRealtyFreedomUI_ListPage",
-    "ModifiedOnUtc": "\/Date(1717155026000)\/",
+    "ModifiedOnUtc": "\/Date(1717159219000)\/",
     "Parent": {
       "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
       "Name": "ListFreedomTemplate"

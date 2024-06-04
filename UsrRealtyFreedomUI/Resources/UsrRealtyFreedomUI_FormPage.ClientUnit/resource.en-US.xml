@@ -4,8 +4,15 @@
 		<Items>
 			<Item Name="Caption" Value="Realties form page" />
 			<Item Name="LocalizableStrings.addRecord_381ol0r_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_5mvj0ze_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_dn7ghbf_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_gy2r6f4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_l8mib2z_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 10 sqr m" />
+			<Item Name="LocalizableStrings.Button_en3rh6c_caption.Value" Value="Don't push me" />
+			<Item Name="LocalizableStrings.NumberInput_tkepwpg_label.Value" Value="Number" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.00" />
+			<Item Name="LocalizableStrings.Usrdontpushme_caption.Value" Value="Don't push me" />
 		</Items>
 	</Group>
 </Resources>
